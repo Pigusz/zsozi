@@ -1,0 +1,9 @@
+[gd_scene load_steps=2 format=3 uid="uid://ig3qkpg4qunw"]
+
+[ext_resource type="Texture2D" uid="uid://dhypii6kp53x2" path="res://assets/boles.jpg" id="1_wtcfe"]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="Boles" type="Sprite2D" parent="."]
+position = Vector2(585, 450)
+texture = ExtResource("1_wtcfe")
